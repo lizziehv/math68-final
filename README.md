@@ -1,8 +1,7 @@
 # The Murnaghan–Nakayama Rule: Math 68 Final Project
 
-Lizzie Hernandez
-
-Math 68: Algebraic Combinatorics
+- Name: Lizzie Hernandez
+- Course: Algebraic Combinatorics 21F
 
 
 
