@@ -5,4 +5,4 @@
 
 
 
-This project is an implementation of the Murnaghan–Nakayama rule to compute the characters of irreducible representations of the symmetric group in Python. View paper [here](final-paper.ipynb).
+This project is an implementation of the Murnaghan–Nakayama rule to compute the characters of irreducible representations of the symmetric group in Python. View paper [here](final.ipynb).
